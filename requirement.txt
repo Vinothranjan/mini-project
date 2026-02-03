@@ -1,0 +1,8 @@
+opencv-python
+face_recognition
+cmake
+python-telegram-bot
+requests
+twilio
+Flask
+numpy
